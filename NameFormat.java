@@ -15,7 +15,7 @@ public class NameFormat {
             System.out.print(data[i].charAt(0) + ".");;
         }
     }
-
+    System.out.println();
     scnr.close();
     }
 }
