@@ -36,7 +36,16 @@ Ensure you have Java Development Kit (JDK) installed on your system. You can dow
 ```
 
 ## Application Usage
-Once the program is running, it will prompt you to input your full name. The program will split the name and format it to display the last name first, followed by initials of the first and middle names.  Example: If you input:  Copy code John Michael Doe The output will be:  Copy code Doe, J.M.
+Once the program is running, it will prompt you to input your full name. The program will split the name and format it to display the last name first, followed by initials of the first and middle names.  
+
+Example: If you input:  
+```Java
+John Michael Doe
+``` 
+The output will be:  
+```Java
+Doe, J.M.
+```
 
 ## Contributions
 Eric Keeton
